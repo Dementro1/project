@@ -1,2 +1,5 @@
-# Проект "Я помню"
-Это потрясающий проект!
+# Project
+This is awesome project.
+## How to start
+# Author
+Author
